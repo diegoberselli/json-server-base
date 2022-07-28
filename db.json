@@ -1,11 +1,77 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
+      "email": "teste@teste.com",
+      "password": "$2a$10$QT92YLsy06R9V99UiIPA5OgxrzQt/etRmTVYHyK8XTZ7NZ8RNfh9i",
+      "name": "testando",
+      "id": 2
+    }
+
+  ],
+  "products": [
+    {
+      "name": "Educação Financeira",
+      "price": 300,
+      "category": "Financeiro",
+      "description": "Workshop para empresas, educação financeira e como melhorar a sua produtividade",
+      "images": "https://st.depositphotos.com/2355249/2571/i/450/depositphotos_25718497-stock-photo-business-man-showing-you-brazilian.jpg",
       "id": 1
+    },
+    {
+      "name": "Criatividade e inovação",
+      "price": 150,
+      "category": "Criatividade",
+      "description": "Não fique na zona de conforto, estimule sua criatividade.",
+      "images": "https://www.geacomunicacao.com.br/wp-content/uploads/2020/06/como-ser-criativo-01-900x479.jpg",
+      "id": 2
+    },
+    {
+      "name": "Hamburguer Duplo",
+      "price": 23,
+      "category": "Sanduiche",
+      "description": "O segredo do hambúrguer perfeito é o seu blend, ou seja, a mistura de carnes usadas no seu preparo. Segundo Amilcar, o ideal é usar uma mistura de 70-75% de carne e o restante de gordura. Você pode escolher uma carne que já tenha, naturalmente essa proporção, como a fraldinha por exemplo, ou você pode fazer um blend de carnes mesmo: usar uma mais magra e outra mais gorda para chegar nessa proporção. No NOU nos usamos um coxão duro e a costela (que tem quase 60% de gordura)",
+      "images": "https://s2.glbimg.com/-on4mnFlw5G3RI4sFYUyPcsE5lE=/620x466/e.glbimg.com/og/ed/f/original/2021/05/26/burger_nou.jpeg",
+      "id": 3
+    },
+    {
+      "name": "Hamburguer Vegano",
+      "price": 27,
+      "category": "Sanduiche",
+      "description": "Um hambúrguer vegano para arrasar em um almoço mais saudável!, Essa receita é da Chef funcional.",
+      "images": "https://cardapiosaudavel.com.br/wp-content/uploads/2020/08/hamburguer-vegano.jpg",
+      "id": 4
+    },
+    {
+      "name": "Hotdog tradiciona",
+      "price": 11,
+      "category": "Sanduiche",
+      "description": "Carrinho De Hot Dog em promoção que você procura? Então aproveite nossa oferta e faça sua compra agora!",
+      "images": "https://img.itdg.com.br/tdg/img_url/recipes/000/119/770/357545/357545_original.jpg",
+      "id": 5
+    },
+    {
+      "name": "Milkshake de Morango",
+      "price": 14,
+      "category": "Milkshake",
+      "description": "Milkshake delicioso de manteiga de amendoim e geleia servida no 50's Prime Time Café.",
+      "images": "https://s2.glbimg.com/-_l2ivi-swDyH3Ao_NCkw1GXpYw=/0x0:600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2021/3/d/tNlaHaThKPkhjxlEaOHA/2020-05-20-gettyimg_url-1142712845.jpg",
+      "id": 6
+    },
+    {
+      "name": "Milkshake de Chocolate",
+      "price": 16,
+      "category": "Milkshake",
+      "description": "Milk shake de chocolate com sorvete de chocolate extremamente delicioso e irresistível. Refrescante e com gotas de chocolate,que irão fazer você querer mais.",
+      "images": "https://s2.glbimg.com/g4H-vhXxwYunvuVpkhY0VkqWRw4=/0x0:210x240/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2014/02/24/16_54_49_229_images.jpg",
+      "id": 7
+    },
+    {
+      "name": "Milkshake de Ovo",
+      "price": 16,
+      "category": "Milkshake",
+      "description": "Milk shake de ovomaltine com sorvete de chocolate extremamente delicioso e irresistível. Refrescante e com gotas de chocolate,que irão fazer você querer mais.",
+      "images": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-milk-shake-de-ovomaltine-0.jpg",
+      "id": 8
     }
   ]
 }
